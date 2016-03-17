@@ -1,7 +1,7 @@
 name: imademyselfboss
 favicon: null
-layout_spectrum: 0.5426766015589237
-typography_spectrum: 0.36050580465234816
+layout_spectrum: 0.99904
+typography_spectrum: 0.27837
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.03913005907088518
+  brandStrength: 0.125
   lightness: 0.49652410950511694
   saturation: 0.2843233556486666
   rhythmicContrast: 0.37241151207126677
