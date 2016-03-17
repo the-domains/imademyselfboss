@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[imademyselfboss]]></title>
-        <description><![CDATA[imademyselfboss]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[i made myself boss]]></title>
+        <description><![CDATA[i made myself boss]]></description>
+        <link>https://thegrid.ai/imademyselfboss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 18:23:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 18:25:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/imademyselfboss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef95f93-01c4-4c6f-bc0e-ca37292d8c6f.jpg">]]></description>
+            <link>https://thegrid.ai/imademyselfboss/2d5533e4-121c-4701-a3a2-97332b919957/index.html</link>
+            <guid isPermaLink="false">2d5533e4-121c-4701-a3a2-97332b919957</guid>
+            <pubDate>Thu, 17 Mar 2016 18:25:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ad856b7-72a5-467a-8eda-31513f29a784.jpg" alt="" title="">]]></description>
-            <link>undefinedwework-portland/index.html</link>
+            <link>https://thegrid.ai/imademyselfboss/wework-portland/index.html</link>
             <guid isPermaLink="false">fc305d0c-b28a-41c0-82b1-84d4f4c481a0</guid>
             <pubDate>Thu, 17 Mar 2016 18:23:10 GMT</pubDate>
         </item>
